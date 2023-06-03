@@ -1,0 +1,55 @@
+body {
+    background-color: #F4E1D2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #D7B9A7;
+  }
+  
+  #shoppingList {
+    background-color: #E8D4C4;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  #itemsList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  form {
+    background-color: #E8D4C4;
+    padding: 20px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input[type="text"], input[type="number"] {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    background-color: #D7B9A7;
+    border: none;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .delete-button {
+    background-color: #D7B9A7;
+    border: none;
+    color: #FFFFFF;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 12px;
+    margin-left: 5px;
+  }
+  
